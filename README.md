@@ -92,7 +92,6 @@ echo $electricCar->getDetails();
 3. Buka terminal dan navigasi ke direktori proyek.
 4. Jalankan <code>php index.php</code> untuk melihat outputnya.
 
-<code>$</code>
 ```bash
 php index.php
 ```
