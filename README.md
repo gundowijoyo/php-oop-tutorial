@@ -30,7 +30,7 @@ class Car {
 ```
 ## Inheritance
 
--Inheritance memungkinkan sebuah class untuk mewarisi properties dan methods dari class lain.
+- Inheritance memungkinkan sebuah class untuk mewarisi properties dan methods dari class lain.
 
 Contoh class ElectricCar yang mewarisi class Car:
 
